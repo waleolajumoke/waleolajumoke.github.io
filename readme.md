@@ -5,11 +5,12 @@
   <title>Data Analyst Portfolio</title>
 </head>
 <body>
-<img src="https://media.licdn.com/dms/image/C4E03AQFsBd-LOhuURA/profile-displayphoto-shrink_200_200/0/1591473347854?e=2147483647&v=beta&t=H8IjJWnkU7LyOilGFz8hsaT_PVc-rNrTF84RN7Dk_B4" />
+
   <header>
     <h1>About Me</h1>
     <p>I am a data analyst with a passion for leveraging technology to solve real-world problems.</p>
   </header>
+  <img src="https://media.licdn.com/dms/image/C4E03AQFsBd-LOhuURA/profile-displayphoto-shrink_200_200/0/1591473347854?e=2147483647&v=beta&t=H8IjJWnkU7LyOilGFz8hsaT_PVc-rNrTF84RN7Dk_B4" />
 
   <section id="projects">
     <h2>Projects</h2>
