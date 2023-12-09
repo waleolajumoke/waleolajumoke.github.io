@@ -5,7 +5,7 @@
   <title></title>
 </head>
 <body>
-
+<img src="001.jpg" />
   <header>
     <h1>About Me</h1>
     <p>I am a data analyst with a passion for leveraging technology to solve real-world problems.</p>
