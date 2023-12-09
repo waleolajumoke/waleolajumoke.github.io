@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Data Analyst Portfolio</title>
+  <title></title>
 </head>
 <body>
 
