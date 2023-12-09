@@ -1,26 +1,54 @@
-# Introduction
-I'm a data analyst passionate about using analytical skills to solve complex problems.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Data Analyst Portfolio</title>
+</head>
+<body>
 
-## Projects
+  <header>
+    <h1>About Me</h1>
+    <p>I am a data analyst with a passion for leveraging technology to solve real-world problems.</p>
+  </header>
 
-### Project 1: Sales Analysis
-- **Description:** Analyzed sales data using Python and Pandas to identify trends.
-- **Tools Used:** Python, Pandas, Matplotlib
-- **Outcome:** Improved sales strategies resulting in a 15% increase in revenue.
+  <section id="projects">
+    <h2>Projects</h2>
 
-### Project 2: Customer Segmentation
-1. **Description:** Utilized clustering techniques to segment customers based on purchasing behavior.
-   - Identified three distinct customer segments.
-2. **Tools Used:** R, K-means Clustering
-   - Visualized results using ggplot2.
-   
-## Skills
-- **Programming Languages:** Python, R, SQL
-- **Data Analysis Tools:** Excel, Tableau, Pandas, NumPy
-- **Statistical Methods:** Regression Analysis, Hypothesis Testing
+    <article>
+      <h3>Project 1: Sales Analysis</h3>
+      <p><strong>Description:</strong> Analyzed sales data using Python and Pandas to identify trends.</p>
+      <p><strong>Tools Used:</strong> Python, Pandas, Matplotlib</p>
+      <p><strong>Outcome:</strong> Improved sales strategies resulting in a 15% increase in revenue.</p>
+    </article>
 
-## Education
-- Bachelor's Degree in Statistics, XYZ University
+    <article>
+      <h3>Project 2: Customer Segmentation</h3>
+      <p><strong>Description:</strong> Utilized clustering techniques to segment customers based on purchasing behavior.</p>
+      <p><strong>Tools Used:</strong> R, K-means Clustering</p>
+      <p><strong>Outcome:</strong> Identified three distinct customer segments.</p>
+    </article>
 
-## Work Experience
-- Data Analyst Intern at XYZ Company (2020-2021)
+    <!-- Add more projects as needed -->
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Programming Languages: Python, R, SQL</li>
+      <li>Data Analysis Tools: Excel, Tableau, Pandas, NumPy</li>
+      <li>Statistical Methods: Regression Analysis, Hypothesis Testing</li>
+    </ul>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <p>Bachelor's Degree in Statistics, XYZ University</p>
+  </section>
+
+  <section id="work-experience">
+    <h2>Work Experience</h2>
+    <p>Data Analyst Intern at XYZ Company (2020-2021)</p>
+  </section>
+
+</body>
+</html>
